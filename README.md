@@ -13,3 +13,9 @@ We detect & analyze high risk "criminal" opportunities, share the risk & vulnera
 #### Are we making a profit?
 No, were are a nonprofit foundation. We rely on contributions in the form of donations, sponsorships and participating members
 
+
+We are currently moving our entire infrastructure to a new secure platform.
+<You can reach us via webmaster[at]GDI.foundation. And this is our PGP key: https://keybase.io/GDI_FDN/key.asc 
+
+Our latest publications are hosted here: https://github.com/GDI-foundation/website/tree/master/archive
+
