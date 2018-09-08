@@ -5,7 +5,7 @@ Our mission is to defend the free & open Internet by trying to make it safer.
 We address security issues with responsible disclosure (coordinated vulnerability disclosures).
 
 #### What do we stand for?
-We believe that actions must be taken to protect the freedom of communication through the Internet.
+We believe that actions must be taken to protect the freedom of communication through the Internet. This is our [mission statement](https://gdi.foundation/mission/).
 
 #### What do we do?
 We detect & analyze high risk "criminal" opportunities, share the risk & vulnerabilities with everybody, inform the ones who are at risk and give free advice about a solution.
