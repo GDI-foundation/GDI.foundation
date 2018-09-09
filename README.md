@@ -1,4 +1,5 @@
-![logo](https://gdi.foundation/img/logo.png "GDI.foundation")
+
+<img src="gdi.foundation/img/logo.png" alt="GDI.foundation" width="250" height="250" border="0" /></a>
 
 #### GDI.Foundation is a nonprofit organization. 
 Our mission is to defend the free & open Internet by trying to make it safer.
