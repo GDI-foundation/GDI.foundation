@@ -21,10 +21,10 @@ Yes. We have a lot of [issues and missing features](https://github.com/GDI-found
 But we also have new (research) [projects](https://github.com/GDI-foundation/website/projects) planned to which you are welcome to contribute. We are accepting new (board)members, volunteers and contributing partners.
 
 #### Our current status
-We are currently moving our entire infrastructure to a new secure platform.
+We are currently moving our entire infrastructure to a new secure platform. we are also interviewing several talented and enthusiastic people for a several board member positions and run an election for selecting a new chair, vice-chair, treasurer and secretary from our members as we steadily go forward. In the next three months will be setting the [GCERT](https://github.com/GCERT) which will make us more efficient in handeling vulnerabilities and provide a systematic response facility to computer security threats and (online) incidents.
 
-You can reach us via webmaster[at]GDI.foundation. 
-And this is our [PGP key](https://keybase.io/GDI_FDN/key.asc). 
+You can still reach us via webmaster[at]GDI.foundation. 
+And this is our [PGP key](https://keybase.io/GDI_FDN/key.asc) which will expire on 31 december 2018.
 
 
 
