@@ -26,5 +26,5 @@ We are currently moving our entire infrastructure to a new secure platform. we a
 You can still reach us via webmaster[at]GDI.foundation. 
 And this is our [PGP key](https://keybase.io/GDI_FDN/key.asc) which will expire on 31 december 2018.
 
-
+Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advisories and updates 
 
