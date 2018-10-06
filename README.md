@@ -2,7 +2,7 @@
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
 
-'At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL).'
+```At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL).```
 
 Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advisories and updates 
 
