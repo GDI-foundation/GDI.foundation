@@ -23,7 +23,7 @@ Every pillar will have their own board member to help speed up internal decision
 
 * [GCERT](https://github.com/GCERT)
 * [PROJECTS](https://github.com/GDI-foundation/GDI.foundation/projects)
-* RESEARCH
+* [RESEARCH](https://github.com/GDI-foundation/GDI.foundation/tree/master/archive)
 * PROGRAMS
 * EDUCATION
 * PARTNERSHIPS
