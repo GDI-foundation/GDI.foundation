@@ -21,8 +21,8 @@ In 2019 the GDI.foundation will start providing unique intelligence and Human Va
 
 Every pillar will have their own board member to help speed up internal decision making.
 
-* GCERT
-* PROJECTS
+* [GCERT](https://github.com/GCERT)
+* [PROJECTS](https://github.com/GDI-foundation/GDI.foundation/projects)
 * RESEARCH
 * PROGRAMS
 * EDUCATION
