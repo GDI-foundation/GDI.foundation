@@ -17,7 +17,8 @@ At this moment the GDI.foundation can be described as a very AD HOC organization
 The organisation will expand to six pillars which will help achieve our main goal of handling vulnerabilities. 
 In 2019 the GDI.foundation will start providing unique intelligence and Human Validated OSINT to trusted partners. 
 
-[insert image]
+Orginsation: ![Alt](/about/organization _chart.svg
+ "GDI.foundation organisation")
 
 Every pillar will have their own board member to help speed up internal decision making.
 
