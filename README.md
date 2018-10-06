@@ -1,11 +1,10 @@
 
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
-
-```At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL).```
+At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL).
+And in the meantime, we work on the [new organization](/about/outlook2019), gathering a big group of enthusiast, passioned professionals to help GDI reach the next the level.
 
 Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advisories and updates 
-
 
 #### GDI.Foundation is a nonprofit organization. 
 Our mission is to defend the free & open Internet by trying to make it safer.
