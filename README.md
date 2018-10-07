@@ -9,7 +9,8 @@ Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advi
 
 #### GDI.Foundation is a nonprofit organization. 
 Our mission is to defend the free & open Internet by trying to make it safer.
-We address security issues with responsible disclosure ([coordinated vulnerability disclosures](https://www.iso.org/standard/45170.html)).
+We address security issues with responsible disclosure ([coordinated vulnerability disclosures](https://www.iso.org/standard/45170.html)). *Did you know thagt the Dutch NCSC published their new [Coordinated Vulnerability Disclosure Guideline](https://www.ncsc.nl/english/current-topics/news/coordinated-vulnerability-disclosure-guideline-supports-organisations-with-their-cvd-policy.html 
+) very recently?*
 
 #### What do we stand for?
 We believe that actions must be taken to protect the freedom of communication through the Internet. This is our [mission statement](https://gdi.foundation/mission/).
