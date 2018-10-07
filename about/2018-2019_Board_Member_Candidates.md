@@ -2,6 +2,31 @@
 
 This document is still a draft and will change in the [coming weeks](https://www.timeanddate.com/countdown/generic?iso=20181028T2019&p0=1314&msg=GDI.foundation+is+ready+for+2019&font=sanserif).
 
+
+<!-- It's the final countdown -->
+<p id="counter"></p>
+
+<script>
+var countDownDate = new Date("Oct 28, 2019 20:19:00").getTime();
+var x = setInterval(function() {
+var now = new Date().getTime();
+var distance = countDownDate - now;
+var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+document.getElementById("counter").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("counter").innerHTML = "";
+  }
+}, 1000);
+</script>
+
+
 ## The Board
 The Board’s role is to pull the organization out of the trees to see the forest. Strategy oversight is important in tuning and updating our dynamic digital strategy. The board members set the right tone for shaping the culture and drive innovation in their branch/division.
 
