@@ -1,13 +1,12 @@
 # 2018-2019 Board Member Candidates
 
-This document is still a draft and will change in the [coming weeks](https://www.timeanddate.com/countdown/generic?iso=20181028T2019&p0=1314&msg=GDI.foundation+is+ready+for+2019&font=sanserif).
 
 
 <!-- It's the final countdown -->
-<p id="counter"></p>
+<p id="counter">This document is still a draft and will change in the next </p>
 
 <script>
-var countDownDate = new Date("Oct 28, 2019 20:19:00").getTime();
+var countDownDate = new Date("Oct 28, 2018 20:19:00").getTime();
 var x = setInterval(function() {
 var now = new Date().getTime();
 var distance = countDownDate - now;
@@ -21,7 +20,7 @@ document.getElementById("counter").innerHTML = days + "d " + hours + "h "
 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("counter").innerHTML = "";
+    document.getElementById("counter").innerHTML = "This document is not a draft anymore.";
   }
 }, 1000);
 </script>
