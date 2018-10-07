@@ -1,6 +1,6 @@
 # 2018-2019 Board Member Candidates
 
-This document is still a draft and will change in the coming weeks.
+This document is still a draft and will change in the [coming weeks](https://www.timeanddate.com/countdown/generic?iso=20181028T2019&p0=1314&msg=GDI.foundation+is+ready+for+2019&font=sanserif).
 
 ## The Board
 The Board’s role is to pull the organization out of the trees to see the forest. Strategy oversight is important in tuning and updating our dynamic digital strategy. The board members set the right tone for shaping the culture and drive innovation in their branch/division.
