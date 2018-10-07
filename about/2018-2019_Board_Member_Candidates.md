@@ -32,7 +32,7 @@ The Board’s role is to pull the organization out of the trees to see the fores
 ## Positions
 We have identified these positions for the board which is required to realize our ambitious goals:
 
-- Chair: *unoccupied*
+- [Chair](#chair): *unoccupied*
 - Vice-Chair: *unoccupied*
 - Secretary: *unoccupied*
 - Treasurer: *unoccupied*
@@ -47,7 +47,7 @@ We have identified these positions for the board which is required to realize ou
 
 ## Tasks for the roles on the board
 
-### Chair
+### [Chair](#chair)
 The chair is a trustee with a specific role on the board. The chair is elected or appointed to this role as set out in the charity’s governing document. The role of the chair is to chair meetings of the board and is responsible to safeguard the mission, vision and ground principle on which the GDI.foundation was founded. The chair is the official (press) spokesperson who is responsible for the wellbeing of the foundation and the (board)members and volunteers.
 
 ### Vice-Chair
