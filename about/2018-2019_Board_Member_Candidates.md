@@ -1,9 +1,9 @@
 # 2018-2019 Board Member Candidates
 
 
-
+This document is still a draft and will change in the next
 <!-- It's the final countdown -->
-<p id="counter">This document is still a draft and will change in the next </p>
+<p id="counter"></p>
 
 <script>
 var countDownDate = new Date("Oct 28, 2018 20:19:00").getTime();
