@@ -36,12 +36,12 @@ We have identified these positions for the board which is required to realize ou
 - Vice-Chair: *unoccupied*
 - Secretary: *unoccupied*
 - Treasurer: *unoccupied*
-- GCERT: Jeroen van der Ham
-- PROJECTS: Victor Gevers
-- RESEARCH: Mattijs van Ommeren
-- PROGRAMS: Astrid van Oosenbrug
-- EDUCATION: *Martin Knobloch*
-- PARTNERSHIPS: *unoccupied*
+- [GCERT](https://gdi.foundation/about/outlook2019#gcert): Jeroen van der Ham
+- [PROJECTS](https://gdi.foundation/about/outlook2019#projects): Victor Gevers
+- [RESEARCH](https://gdi.foundation/about/outlook2019#research): Mattijs van Ommeren
+- [PROGRAMS](https://gdi.foundation/about/outlook2019#programs): Astrid van Oosenbrug
+- [EDUCATION](https://gdi.foundation/about/outlook2019#education): *Martin Knobloch*
+- [PARTNERSHIPS](https://gdi.foundation/about/outlook2019#partnerships): *unoccupied*
 - Human Validated OSINT: *unoccupied*
 - Unique Intelligence: Edwin van Andel
 
