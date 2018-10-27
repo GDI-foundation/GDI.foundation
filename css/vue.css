@@ -666,7 +666,7 @@ body {
   font-weight: 600;
 }
 .markdown-section a {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color, #25048);
   font-weight: 600;
 }
 .markdown-section h1 {
