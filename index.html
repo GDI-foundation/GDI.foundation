@@ -9,9 +9,42 @@
 </head>
 <body>
   <div id="app"></div>
-  <script>
+<script>
     window.$docsify = {
-      //...
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md'
+              },
+      notFoundPage: '_404.html',
+      auto2top: true,
+      basePath: '/',
+      executeScript: true,
+      loadNavbar: true,
+      loadSidebar: true,
+      coverpage: true,
+      name: 'docsify',
+      subMaxLevel: 2,
+      mergeNavbar: true,
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            var url
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/master/, '/blob/master')
+            } else {
+              url = 'https://github.com/GDI-foundation/GDI.foundation/blob/master/' + vm.route.file
+            }
+            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            return editHtml
+              + html
+              + '\n\n----\n\n'
+              + 'Last modified {docsify-updated} '
+              + editHtml
+          })
+        }
+      ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
