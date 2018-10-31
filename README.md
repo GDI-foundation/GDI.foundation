@@ -2,7 +2,7 @@
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
 #### News
-At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL). Moreover, in the meantime, we work on the [new organization](https://GDI.foundation/about/outlook2019/), gathering a big group of enthusiast, passioned professionals to help GDI reach the next the level.
+At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL). Moreover, in the meantime, we work on the [new organization](/outlook_2019/), gathering a big group of enthusiast, passioned professionals to help GDI reach the next the level.
 
 Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advisories, and updates 
 
@@ -12,7 +12,7 @@ We address security issues with responsible disclosure ([coordinated vulnerabili
 ) very recently?*
 
 #### What do we stand for?
-We believe that actions must be taken to protect the freedom of communication through the Internet. This is our [mission statement](https://gdi.foundation/mission/).
+We believe that actions must be taken to protect the freedom of communication through the Internet. This is our [mission statement](/mission/).
 
 #### What do we do?
 We detect & analyze high risk "criminal" opportunities, share the risk & vulnerabilities with everybody, inform the ones who are at risk and give free advice about a solution. A few of our operations were covered in the [news](https://www.google.nl/search?q=GDI.foundation&num=100&tbs=sbd:1&tbm=nws&tbas=0&source=lnt&sa=X&ved=0ahUKEwi4sMS66qvdAhXGIlAKHdTxC-MQpwUIHw&biw=1440&bih=803&dpr=2).
