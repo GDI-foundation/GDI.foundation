@@ -7,7 +7,7 @@ This document is still a draft.
 The Board’s role is to pull the organization out of the trees to see the forest. Strategy oversight is important in tuning and updating our dynamic digital strategy. The board members set the right tone for shaping the culture and drive innovation in their branch/division.
 
 ## Positions
-We have identified these positions for the board which is required to realize our ambitious goals:
+We have identified these positions for the board which are required to realize our ambitious goals:
 
 - [Chair](#chair): *unoccupied*
 - Vice-Chair: *unoccupied*
@@ -21,6 +21,7 @@ We have identified these positions for the board which is required to realize ou
 - [PARTNERSHIPS](https://gdi.foundation/about/outlook2019#partnerships): *unoccupied*
 - Human Validated OSINT: *unoccupied*
 - Unique Intelligence: Edwin van Andel
+- Advisory Board Member: *undisclosed at this time*
 
 ## Tasks for the roles on the board
 
