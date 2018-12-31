@@ -1,4 +1,4 @@
-# 2018-2019 Board Member Candidates
+# 2019 Board Member Candidates
 
 
 This document is still a draft.
@@ -21,7 +21,7 @@ We have identified these positions for the board which are required to realize o
 - [PARTNERSHIPS](https://gdi.foundation/about/outlook2019#partnerships): *unoccupied*
 - Human Validated OSINT: *unoccupied*
 - Unique Intelligence: Edwin van Andel
-- Advisory Board Member: *undisclosed at this time*
+- Advisory Board Member: Huy Kha
 
 ## Tasks for the roles on the board
 
