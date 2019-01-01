@@ -19,7 +19,7 @@ In 2019 the GDI.foundation will start providing *Unique Intelligence* and *Human
 
 <img src="https://gdi.foundation/about/organization _chart.svg" alt="GDI.foundation organizational chart" />
 
-Every pillar [division] will have their own [board member](https://GDI.foundation/about/2018-2019_Board_Member_Candidates.md)  to help speed up internal decision making.
+Every pillar [division] will have their own [board member](https://GDI.foundation/about/2018-2019_Board_Member_Candidates/)  to help speed up internal decision making.
 
 * [GCERT](#gcert)
 * [PROJECTS](#projects)
