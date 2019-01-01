@@ -9,7 +9,7 @@ The Board’s role is to pull the organization out of the trees to see the fores
 ## Positions
 We have identified these positions for the board which are required to realize our ambitious goals:
 
-- [Chair](#chair): *unoccupied*
+- [Chair](#chair): Victor Gevers *ad interim*
 - Vice-Chair: *unoccupied*
 - Secretary: *unoccupied*
 - Treasurer: *unoccupied*
