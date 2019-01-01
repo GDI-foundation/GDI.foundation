@@ -11,7 +11,7 @@ Currently we are are actively tracking over 33 and half million detected vulnera
 
 ## Our biggest struggle
 Although we are increasing in numbers in all aspects, we need to start adding more depth. 
-At this moment the GDI.foundation can be described as a very AD HOC organization. Although our [mission](https://gdi.foundation/mission/) is straightforward and clear. Our operational “excellence” and our non-critical additional things (like our website, twitter etc.) is not up to par. And we need more people on board (as in [board members](https://gdi.foundation/#/about/2019_Board_Member_Candidates.md/) who can help bring focus and depth in all areas of the GDI.foundation.
+At this moment the GDI.foundation can be described as a very AD HOC organization. Although our [mission](https://gdi.foundation/mission/) is straightforward and clear. Our operational “excellence” and our non-critical additional things (like our website, twitter etc.) is not up to par. And we need more people on board (as in [board members](https://gdi.foundation/about/board_members/) who can help bring focus and depth in all areas of the GDI.foundation.
 
 ## Looking forward
 The organisation will expand to six pillars [divisions] which will help achieve our main goal of handling vulnerabilities. 
