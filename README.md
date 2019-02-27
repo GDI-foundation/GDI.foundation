@@ -29,7 +29,7 @@ However, we also have new (research) [projects](https://github.com/GDI-foundatio
 #### Our current status
 We are currently moving our entire infrastructure to a new secure platform. We are also interviewing several talented and enthusiastic people for several board member positions and run an election for selecting a new chair, vice-chair, treasurer and secretary from our members as we steadily go forward. In the next three months will be setting the [GCERT](https://github.com/GCERT) which make us more efficient in handling vulnerabilities and provide a systematic response facility to computer security threats and (online) incidents.
 
-You can still reach us via webmaster[at]GDI.foundation. 
+You can still reach us via GCERT[at]GDI.foundation. 
 This is our [PGP key](https://keybase.io/GDI_FDN/key.asc).
 
 Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advisories, and updates 
