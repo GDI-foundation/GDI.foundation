@@ -3,7 +3,7 @@
 
 **What is the GDI foundation**
 
-The GDI foundation is an international humanitarian non-profit organization which is being operated by 13 members and approximately 27 volunteers. Our mission is to protect the free and open Internet by trying to make it safer and by thus guarding the well-being of humans online, to ensure respect for all human intellectual freedom, and to prevent and mitigate digital abuse. We address security issues with Responsible Disclosures and assist anywhere in times of need.
+The GDI foundation is an international humanitarian non-profit organization which is being operated by 34 members. Our mission is to protect the free and open Internet by trying to make it safer and by thus guarding the well-being of humans online, to ensure respect for all human intellectual freedom, and to prevent and mitigate digital abuse. We address security issues with Responsible Disclosures and assist anywhere in times of need.
 
 The GDI foundation is a non-profit organization founded in 2015 in The Hague, The Netherlands, by Victor Gevers and Vincent Toms.
 
