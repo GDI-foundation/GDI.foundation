@@ -31,7 +31,7 @@ The GDI foundation is an online voluntary auxiliary organization not prompted or
 
 **Unity**
 
-There can be only one GDI foundation in any one country. It must be open to all. It must carry on our primary mission throughout its territory.
+There can be only one GDI foundation chapter per country. It must be open to all. It must carry on our primary mission throughout its territory but is not bound to it as members can be member of the GCERT.
 
 **Universality**
 
