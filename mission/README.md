@@ -7,7 +7,7 @@ The GDI foundation is an international humanitarian non-profit organization whic
 
 The GDI foundation is a non-profit organization founded in 2015 in The Hague, The Netherlands, by Victor Gevers and Vincent Toms.
 
-The committee has a sworn oath under the international humanitarian law to protect the life and dignity of anyone online which is at risk.
+The committee has a sworn oath under the international humanitarian law to protect the life and dignity of anyone online who is at risk.
 
 **Humanity**
 
