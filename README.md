@@ -2,6 +2,17 @@
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
 #### News
+
+The SenseNets case: 
+- [The Washington Post](https://www.washingtonpost.com/opinions/global-opinions/china-has-turned-xinjiang-into-a-zone-of-repression--and-a-frightening-window-into-the-future/2019/02/23/780092fe-353f-11e9-854a-7a14d7fec96a_story.html?noredirect=on&utm_term=.d8ff825a6842)
+
+Internet of Things
+- [Japans IoT security strategy](https://www.bankinfosecurity.com/japans-iot-security-strategy-break-into-devices-a-11977)
+
+[More news](/news)
+
+
+#### Current status
 At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL). Moreover, in the meantime, we work on the [new organization](/outlook_2019/), gathering a big group of enthusiast, passioned professionals to help GDI reach the next the level.
 
 Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advisories, and updates 
