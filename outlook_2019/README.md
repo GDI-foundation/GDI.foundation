@@ -31,24 +31,20 @@ Every *division* will have their own [board member](https://GDI.foundation/about
 
 
 ## [GCERT](#gcert)
-Our goal for 2019 is to move our ad hoc approach to more advanced incident handling with our new GCERT as we trying to raise the bar to become an international trusted computer incident response teams who cooperatively handle computer security incidents and promote incident prevention programs even better as we did before.
-Link: https://gcert.global/
+Our goal for 2019 is to move our ad hoc approach to more advanced incident handling with our new GCERT as we trying to raise the bar to become an international trusted computer incident response teams who cooperatively handle computer security incidents and promote incident prevention programs even better than we did before. The GCERT division will have a [GCERT.global](https://gcert.global/) annd a [GCERT.NL](https://gcert.nl). The Dutch GCERT will be focuissing on handeling vulnerabilities in the Netherlands.
 
 ### [PROJECTS](#projects)
 A few of our projects will be made open source. As a non-profit organization which is driven by volunteers, we firmly believe in the collective power of a community of talented individuals working together delivers not only more ideas but quicker development and troubleshooting when issues arise. This is why moved our PROJECTS directly to Github.
 We want to provide more transparency on how GDI.foundation works and invite others to contribute to our mission. To achieve this goal contributor will get full visibility into the code base, as well as all the proposals, issues and bugs.
 
-### [RESEARCH](#research)
-The research division will increase the amount of security research to vulnerabilities and their global spreading in 2019. Which will be an important source for the new PROJECTS which take off soon.
+### [EDUCATION](#education)
+To be able to participate in the activitties of the GDI.foundation a certain form a basic knowledge is required. The GDI.foundation will offer the free education needed to its volunteers/
 
 ### [PROGRAMS](#programms)
-.
+The programs division will be focussing on special activities (like personal developement guidance) for our volunteers. This will go hand in hand with *education* division. 
 
-### [EDUCATION](#education)
-.
-
-### [PARTNERSHIPS](#partnerships)
-.
+### [RESEARCH](#research)
+The research division will be focussing on improving the quality of our research.
 
 And this is how it is all going to fit and work together
 <img src="https://gdi.foundation/img/GDI_Venn.svg" alt="GDI.foundation Venn diagram" />
