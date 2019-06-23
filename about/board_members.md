@@ -18,7 +18,7 @@ We have identified these positions for the board which are required to realize o
 - [PROGRAMS](https://gdi.foundation/about/outlook2019#programs): Astrid van Oosenbrug
 - [EDUCATION](https://gdi.foundation/about/outlook2019#education): *Martin Knobloch*
 - [PARTNERSHIPS](https://gdi.foundation/about/outlook2019#partnerships): *reserved*
-- Human Validated OSINT: *unoccupied*
+- Human Validated OSINT: Zawadi Done
 - Unique Intelligence: Edwin van Andel
 - Advisory Board Member: Huy Kha
 
