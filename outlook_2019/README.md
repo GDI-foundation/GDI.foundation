@@ -17,9 +17,10 @@ At this moment the GDI.foundation can be described as a very AD HOC organization
 The organisation will expand to six pillars [divisions] which will help achieve our main goal of handling vulnerabilities. 
 In 2019 the GDI.foundation will start providing *Unique Intelligence* and *Human Validated OSINT* to trusted partners. 
 
+This is how we set up our divisions
 <img src="https://gdi.foundation/about/organization _chart.svg" alt="GDI.foundation organizational chart" />
 
-Every pillar [division] will have their own [board member](https://GDI.foundation/about/2018-2019_Board_Member_Candidates/)  to help speed up internal decision making.
+Every *division* will have their own [board member](https://GDI.foundation/about/2018-2019_Board_Member_Candidates/)  to help speed up internal decision making.
 
 * [GCERT](#gcert)
 * [PROJECTS](#projects)
@@ -48,3 +49,7 @@ The research division will increase the amount of security research to vulnerabi
 
 ### [PARTNERSHIPS](#partnerships)
 .
+
+And this is how it is all going to fit and work together
+<img src="https://gdi.foundation/img/GDI_Venn.svg" alt="GDI.foundation Venn diagram" />
+
