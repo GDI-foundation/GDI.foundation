@@ -13,11 +13,11 @@ We have identified these positions for the board which are required to realize o
 - Secretary: *unoccupied*
 - Treasurer: *unoccupied*
 - [GCERT](https://gdi.foundation/about/outlook2019#gcert): Jeroen van der Ham
-- [PROJECTS](https://gdi.foundation/about/outlook2019#projects): Victor Gevers
+- [PROJECTS](https://gdi.foundation/about/outlook2019#projects): *unoccupied*
 - [RESEARCH](https://gdi.foundation/about/outlook2019#research): Mattijs van Ommeren
 - [PROGRAMS](https://gdi.foundation/about/outlook2019#programs): Astrid van Oosenbrug
-- [EDUCATION](https://gdi.foundation/about/outlook2019#education): *Martin Knobloch*
-- [PARTNERSHIPS](https://gdi.foundation/about/outlook2019#partnerships): *reserved*
+- [EDUCATION](https://gdi.foundation/about/outlook2019#education): *unoccupied*
+- [PARTNERSHIPS](https://gdi.foundation/about/outlook2019#partnerships): *unoccupied*
 - Human Validated OSINT: Zawadi Done
 - Unique Intelligence: Edwin van Andel
 - Advisory Board Member: Huy Kha
