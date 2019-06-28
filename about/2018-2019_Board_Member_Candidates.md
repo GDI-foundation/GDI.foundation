@@ -17,7 +17,7 @@ We have identified these positions for the board which are required to realize o
 - [PROJECTS](https://gdi.foundation/about/outlook2019#projects): Victor Gevers
 - [RESEARCH](https://gdi.foundation/about/outlook2019#research): Mattijs van Ommeren
 - [PROGRAMS](https://gdi.foundation/about/outlook2019#programs): Astrid van Oosenbrug
-- [EDUCATION](https://gdi.foundation/about/outlook2019#education): *Martin Knobloch*
+- [EDUCATION](https://gdi.foundation/about/outlook2019#education): *unoccupied*
 - [PARTNERSHIPS](https://gdi.foundation/about/outlook2019#partnerships): *unoccupied*
 - Human Validated OSINT: *unoccupied*
 - Unique Intelligence: Edwin van Andel
