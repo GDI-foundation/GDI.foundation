@@ -1,7 +1,7 @@
 
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
-[home](/) - [news](/#/news/) - [about us](/#/about/) - [contact](/#/contact/)
+[home]("https://gdi.foundation/) - [news]("https://gdi.foundation/#/news/) - [about us]("https://gdi.foundation/#/about/) - [contact]("https://gdi.foundation/#/contact/)
 
 #### News
 * [‘MFSocket’ Allows Chinese Police To Spy On Their Citizens Directly From Their Phones](https://z6mag.com/2019/06/27/mfsocket-allows-chinese-police-to-spy-on-their-citizens-directly-from-their-phones/) -- June 27, 2019
