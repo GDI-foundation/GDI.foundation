@@ -15,11 +15,4 @@ This is our [PGP public key](https://keybase.io/GDI_FDN/key.asc).
 For media enquiries, email our media desk at press[at]GDI.foundation 
 
 ### Social media
-You can also follow us on Twitter — we're @GDI_FDN
-
-
-
-You can still reach us via GCERT[at]GDI.foundation. 
-This is our [PGP key](https://keybase.io/GDI_FDN/key.asc).
-
-Follow GDI.foundation on [Twitter](https://twitter.com/GDI_fdn) for alerts, advisories, and updates 
+You can also follow us on Twitter — we're [@GDI_FDN](https://twitter.com/GDI_FDN)
