@@ -10,7 +10,6 @@ At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) 
 Yes. We have many [issues and missing features](https://github.com/GDI-foundation/website/issues/) regarding our website.
 However, we also have new (research) [projects](https://github.com/GDI-foundation/website/projects/) planned to which you are welcome to contribute. We are accepting new (board)members, volunteers, and contributing partners.
 
-
 # GDI News headlines
 ## 2019
 ### June
