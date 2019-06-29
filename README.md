@@ -12,6 +12,7 @@ However, we also have new (research) [projects](https://github.com/GDI-foundatio
 
 <!-- tabs:start -->
 
+<!-- tab:News -->
 # GDI News headlines
 ## 2019
 ### June
@@ -39,9 +40,9 @@ However, we also have new (research) [projects](https://github.com/GDI-foundatio
 ### Archive 
 The real old stuff is [here](https://github.com/GDI-foundation/GDI.foundation/tree/master/archive)
 
-<!-- tabs:end -->
 
-<!-- tabs:start -->
+
+<!-- tab:About -->
 # About
 ## GDI.Foundation is a nonprofit organization. 
 Our mission is to defend the free & open Internet by trying to make it safer.
@@ -57,7 +58,7 @@ We detect & analyze high risk "criminal" opportunities, share the risk & vulnera
 No, we are a nonprofit foundation. We rely on contributions in the form of donations, sponsorships and participating members
 <!-- tabs:end -->
 
-<!-- tabs:start -->
+<!-- tab:Contact -->
 # Contact
 ## Contact us
 Contact us if you have feedback or a general enquiry.
@@ -73,7 +74,7 @@ For media enquiries, email our media desk at press[at]GDI.foundation
 You can also follow us on Twitter — we're [@GDI_FDN](https://twitter.com/GDI_FDN)
 <!-- tabs:end -->
 
-<!-- tabs:start -->
+<!-- tab:Mission -->
 ## Mission statement
 ### What is the GDI foundation
 The GDI foundation is an international humanitarian non-profit organization which is being operated by 34 members. Our mission is to protect the free and open Internet by trying to make it safer and by thus guarding the well-being of humans online, to ensure respect for all human intellectual freedom, and to prevent and mitigate digital abuse. We address security issues with Responsible Disclosures and assist anywhere in times of need.
@@ -107,7 +108,7 @@ The GDI foundation, in which all societies have equal status and share similar r
 This is our code of conduct. We kept it simple. Just "[Be Excellent to Each Other](https://www.youtube.com/watch?v=QGErt4CfLD0)".
 <!-- tabs:end -->
 
-<!-- tabs:start -->
+<!-- tab:Outlook -->
 ## Outlook 2019
 
 ### Looking back
@@ -193,3 +194,4 @@ The trustee appointed or elected to be secretary can only take on specific dutie
 
 ### Treasurer
 The treasurer is elected or appointed to this role and helps board members to carry out their financial responsibilities by presenting financial reports to the board in a format that helps the board understand the foundation’s financial position. Advising the board on how to carry out its financial responsibilities. Liaising with professional advisors and overseeing the bookkeeping, budgeting, and preparation of reports.
+<!-- tabs:end -->
