@@ -66,7 +66,7 @@ For media enquiries, email our media desk at press[at]GDI.foundation
 ### Social media
 You can also follow us on Twitter — we're [@GDI_FDN](https://twitter.com/GDI_FDN)
 
-## Our Mission statement(#mission-statement)
+## Mission statement
 ### What is the GDI foundation
 The GDI foundation is an international humanitarian non-profit organization which is being operated by 34 members. Our mission is to protect the free and open Internet by trying to make it safer and by thus guarding the well-being of humans online, to ensure respect for all human intellectual freedom, and to prevent and mitigate digital abuse. We address security issues with Responsible Disclosures and assist anywhere in times of need.
 
@@ -113,7 +113,7 @@ Although we are increasing in numbers in all aspects, we need to start adding mo
 At this moment the GDI.foundation can be described as a very AD HOC organization. Although our [mission](#mission-statement) is straightforward and clear. Our operational “excellence” and our non-critical additional things (like our website, twitter etc.) is not up to par. And we need more people on board (as in [board members](https://gdi.foundation/about/board_members/)) who can help bring focus and depth in all areas of the GDI.foundation.
 
 ### Looking forward
-The organisation will expand to six pillars [divisions] which will help achieve our main goal of handling vulnerabilities. 
+The organisation will expand with six pillars [divisions] which will help achieve our main goal of handling vulnerabilities. 
 In 2019 the GDI.foundation will start providing *Unique Intelligence* and *Human Validated OSINT* to trusted partners. 
 
 This is how we set up our divisions
