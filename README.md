@@ -1,7 +1,15 @@
 
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
-# News
+# Current status
+At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL). Moreover, in the meantime, we work on the [new organization](#outlook2019), gathering a big group of enthusiast, passioned professionals to help GDI reach the next the level. We are currently moving our entire infrastructure to a new secure platform. We are also interviewing several talented and enthusiastic people for several board member positions and run an election for selecting a new chair, vice-chair, treasurer and secretary from our members as we steadily go forward. In the next three months will be setting the [GCERT](https://github.com/GCERT) which make us more efficient in handling vulnerabilities and provide a systematic response facility to computer security threats and (online) incidents.
+
+## Can I help?
+Yes. We have many [issues and missing features](https://github.com/GDI-foundation/website/issues/) regarding our website.
+However, we also have new (research) [projects](https://github.com/GDI-foundation/website/projects/) planned to which you are welcome to contribute. We are accepting new (board)members, volunteers, and contributing partners.
+
+
+# GDI News headlines
 ## 2019
 ### June
 * June 27, 2019: [‘MFSocket’ Allows Chinese Police To Spy On Their Citizens Directly From Their Phones](https://z6mag.com/2019/06/27/mfsocket-allows-chinese-police-to-spy-on-their-citizens-directly-from-their-phones/)
@@ -27,13 +35,6 @@
 * January 29 , 2019: [https://www.bankinfosecurity.com/japans-iot-security-strategy-break-into-devices-a-11977](Japan's IoT Security Strategy: Break Into Devices)
 ### Archive 
 The real old stuff is [here](https://github.com/GDI-foundation/GDI.foundation/tree/master/archive)
-
-# Current status
-At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) and the [Global-CERT here](https://GCERT.GLOBAL). Moreover, in the meantime, we work on the [new organization](/#/outlook_2019/), gathering a big group of enthusiast, passioned professionals to help GDI reach the next the level. We are currently moving our entire infrastructure to a new secure platform. We are also interviewing several talented and enthusiastic people for several board member positions and run an election for selecting a new chair, vice-chair, treasurer and secretary from our members as we steadily go forward. In the next three months will be setting the [GCERT](https://github.com/GCERT) which make us more efficient in handling vulnerabilities and provide a systematic response facility to computer security threats and (online) incidents.
-
-## Can I help?
-Yes. We have many [issues and missing features](https://github.com/GDI-foundation/website/issues/) regarding our website.
-However, we also have new (research) [projects](https://github.com/GDI-foundation/website/projects/) planned to which you are welcome to contribute. We are accepting new (board)members, volunteers, and contributing partners.
 
 # About
 ## GDI.Foundation is a nonprofit organization. 
@@ -62,9 +63,8 @@ For media enquiries, email our media desk at press[at]GDI.foundation
 
 ### Social media
 You can also follow us on Twitter — we're [@GDI_FDN](https://twitter.com/GDI_FDN)
-<a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
-## Mission
+## Our Mission statement(#mission-statement)
 ### What is the GDI foundation
 The GDI foundation is an international humanitarian non-profit organization which is being operated by 34 members. Our mission is to protect the free and open Internet by trying to make it safer and by thus guarding the well-being of humans online, to ensure respect for all human intellectual freedom, and to prevent and mitigate digital abuse. We address security issues with Responsible Disclosures and assist anywhere in times of need.
 
@@ -94,10 +94,10 @@ There can be only one GDI foundation chapter per country. It must be open to all
 The GDI foundation, in which all societies have equal status and share similar responsibilities and duties in helping each other, is worldwide.
 
 ## Code of Conduct
-[Be Excellent to Each Other](https://www.youtube.com/watch?v=QGErt4CfLD0).
+This is our code of conduct. We kept it simple. Just "[Be Excellent to Each Other](https://www.youtube.com/watch?v=QGErt4CfLD0)".
 
 
-## Outlook 2019
+## Outlook 2019(#outlook2019)
 
 ### Looking back
 We have come a long way. The GDI foundation was originally founded in December 2015 and kicked off 2016 with [PROJECT366](https://twitter.com/GDI_FDN/status/816581294134034432). In 2017 we grew in numbers with volunteers and members dealing with the victims of [huge ransack attacks on open databases systems](https://www.trendmicro.com/vinfo/au/security/news/cybercrime-and-digital-threats/hacking-groups-attack-more-than-20-thousand-mongodb-databases) and the [fallout of Eternalblue](https://www.nu.nl/internet/4820652/negenduizend-nederlandse-bedrijven-dichten-serverlek-melding-onderzoeker.html). 
@@ -108,7 +108,7 @@ Currently we are are actively tracking over 33 and half million detected vulnera
 
 ### Our biggest struggle
 Although we are increasing in numbers in all aspects, we need to start adding more depth. 
-At this moment the GDI.foundation can be described as a very AD HOC organization. Although our [mission](https://gdi.foundation/mission/) is straightforward and clear. Our operational “excellence” and our non-critical additional things (like our website, twitter etc.) is not up to par. And we need more people on board (as in [board members](https://gdi.foundation/about/board_members/)) who can help bring focus and depth in all areas of the GDI.foundation.
+At this moment the GDI.foundation can be described as a very AD HOC organization. Although our [mission](#mission-statement) is straightforward and clear. Our operational “excellence” and our non-critical additional things (like our website, twitter etc.) is not up to par. And we need more people on board (as in [board members](https://gdi.foundation/about/board_members/)) who can help bring focus and depth in all areas of the GDI.foundation.
 
 ### Looking forward
 The organisation will expand to six pillars [divisions] which will help achieve our main goal of handling vulnerabilities. 
