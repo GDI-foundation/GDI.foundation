@@ -99,7 +99,7 @@ The GDI foundation, in which all societies have equal status and share similar r
 This is our code of conduct. We kept it simple. Just "[Be Excellent to Each Other](https://www.youtube.com/watch?v=QGErt4CfLD0)".
 
 
-## Outlook 2019(#outlook2019)
+## Outlook 2019
 
 ### Looking back
 We have come a long way. The GDI foundation was originally founded in December 2015 and kicked off 2016 with [PROJECT366](https://twitter.com/GDI_FDN/status/816581294134034432). In 2017 we grew in numbers with volunteers and members dealing with the victims of [huge ransack attacks on open databases systems](https://www.trendmicro.com/vinfo/au/security/news/cybercrime-and-digital-threats/hacking-groups-attack-more-than-20-thousand-mongodb-databases) and the [fallout of Eternalblue](https://www.nu.nl/internet/4820652/negenduizend-nederlandse-bedrijven-dichten-serverlek-melding-onderzoeker.html). 
