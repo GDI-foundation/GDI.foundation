@@ -1,5 +1,6 @@
 
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
+
 [home](https://gdi.foundation/) - [news](https://gdi.foundation/#/news/) - [about us](https://gdi.foundation/#/about/) - [contact](https://gdi.foundation/#/contact/)
 
 # Contact
