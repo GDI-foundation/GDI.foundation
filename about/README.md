@@ -3,13 +3,18 @@
 
 # About
 
-## About us
-....
+## GDI.Foundation is a nonprofit organization. 
+Our mission is to defend the free & open Internet by trying to make it safer.
+We address security issues with responsible disclosure ([coordinated vulnerability disclosures](https://www.iso.org/standard/45170.html)). 
 
-## What we do
-...
+#### What do we stand for?
+We believe that actions must be taken to protect the freedom of communication through the Internet. This is our [mission statement](/mission/).
 
-## How we work
-...
+#### What do we do?
+We detect & analyze high risk "criminal" opportunities, share the risk & vulnerabilities with everybody, inform the ones who are at risk and give free advice about a solution. A few of our operations were covered in the [news](/news/).
+
+#### Are we making a profit?
+No, we are a nonprofit foundation. We rely on contributions in the form of donations, sponsorships and participating members
+
 
 
