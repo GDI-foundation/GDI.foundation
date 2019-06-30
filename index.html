@@ -1,76 +1,25 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html>
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">  
-  <style>
-    body.no-sidebar .sidebar,
-    body.no-sidebar .sidebar-toggle {
-    display: none !important;
-   }
-
-    body.no-sidebar .content {
-    left: 0px !important;
-      
-    root {
-    --docsifytabs-border-color: #ededed;
-    --docsifytabs-tab-highlight-color: purple;
-  }   
-
-      
-  [data-tab="news"]:after {
-  content: 'Updates';
-  position: absolute;
-  top: 0;
-  right: 0;
-  min-height: 1em;
-  min-width: 1em;
-  padding: 0.325em 0.5em 0.3em 0.5em;
-  border-radius: 3px;
-  background: red;
-  color: #fff;
-  font-family: sans-serif;
-  font-weight: bold;
-  font-size: 11px;
-  line-height: 1;
-  transform: translate(35%, -45%);
-}  
-      
-      
-      
-      
-   }
-  </style>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <title>GDI.foundationn </title>
 </head>
-<body class="no-sidebar">
+<body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-     // ...
-     loadSidebar: false
-
-      tabs: {
-              persist    : true,      // default
-              sync       : true,      // default
-              theme      : 'false', // default
-              tabComments: true,      // default
-              tabHeadings: true       // default
-          }
-
-      
-      themeable: {
-              readyTransition : true, // default
-              responsiveTables: true  // default
-                 }
-  }
- }  
-};
+  window.$docsify = {
+    loadNavbar: true,
+    loadSidebar: true,
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+     }
+ }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 </html>
