@@ -5,8 +5,18 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
- </head>
-<body>
+  <style>
+    body.no-sidebar .sidebar,
+    body.no-sidebar .sidebar-toggle {
+    display: none !important;
+   }
+
+    body.no-sidebar .content {
+    left: 0px !important;
+   }
+  </style>
+</head>
+<body class="no-sidebar">
   <div id="app"></div>
   <script>
     window.$docsify = {
