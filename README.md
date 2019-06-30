@@ -55,8 +55,8 @@ We detect & analyze high risk "criminal" opportunities, share the risk & vulnera
 
 #### Are we making a profit?
 No, we are a nonprofit foundation. We rely on contributions in the form of donations, sponsorships and participating members
-<!-- tabs:end -->
 
+#### ** Contact **
 # Contact
 ## Contact us
 Contact us if you have feedback or a general enquiry.
