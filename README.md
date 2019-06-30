@@ -103,7 +103,7 @@ The GDI foundation, in which all societies have equal status and share similar r
 
 ## Code of Conduct
 This is our code of conduct. We kept it simple. Just *Be Excellent to Each Other*.
-[![Code of Conduct: “Be Excellent to Each Other“](http://img.youtube.com/vi/QGErt4CfLD0/0.jpg)](http://www.youtube.com/watch?v=QGErt4CfLD0 "Code of Conduct: “Be Excellent to Each Other“")
+[![Code of Conduct: “Be Excellent to Each Other“](httsp://img.youtube.com/vi/QGErt4CfLD0/0.jpg)](https://www.youtube.com/watch?v=QGErt4CfLD0 "Code of Conduct: “Be Excellent to Each Other“")
 
 
 #### ** Outlook **
