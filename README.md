@@ -102,7 +102,9 @@ There can be only one GDI foundation chapter per country. It must be open to all
 The GDI foundation, in which all societies have equal status and share similar responsibilities and duties in helping each other, is worldwide.
 
 ## Code of Conduct
-This is our code of conduct. We kept it simple. Just "[Be Excellent to Each Other](https://www.youtube.com/watch?v=QGErt4CfLD0)".
+This is our code of conduct. We kept it simple. Just *Be Excellent to Each Other*.
+[![Code of Conduct: “Be Excellent to Each Other“](http://img.youtube.com/vi/QGErt4CfLD0/0.jpg)](http://www.youtube.com/watch?v=QGErt4CfLD0 "Code of Conduct: “Be Excellent to Each Other“")
+
 
 #### ** Outlook **
 ## Outlook 2019
