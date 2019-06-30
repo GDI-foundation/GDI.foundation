@@ -4,20 +4,6 @@
 
 <!-- tabs:start -->
 
-#### ** English **
-
-Hello!
-
-#### ** French **
-
-Bonjour!
-
-#### ** Italian **
-
-Ciao!
-
-<!-- tabs:end -->
-
 # Home
 
 ## Current status
@@ -27,9 +13,9 @@ At this moment were setting up our GCERT in the [Netherlands](https://GCERT.NL) 
 Yes. We have many [issues and missing features](https://github.com/GDI-foundation/website/issues/) regarding our website.
 However, we also have new (research) [projects](https://github.com/GDI-foundation/website/projects/) planned to which you are welcome to contribute. We are accepting new (board)members, volunteers, and contributing partners.
 
-<!-- tabs:start -->
 
-<!-- tab:News -->
+
+#### ** News **
 # GDI News headlines
 ## 2019
 ### June
@@ -58,8 +44,7 @@ However, we also have new (research) [projects](https://github.com/GDI-foundatio
 The real old stuff is [here](https://github.com/GDI-foundation/GDI.foundation/tree/master/archive)
 
 
-
-<!-- tab:About -->
+#### ** About **
 # About
 ## GDI.Foundation is a nonprofit organization. 
 Our mission is to defend the free & open Internet by trying to make it safer.
@@ -75,7 +60,6 @@ We detect & analyze high risk "criminal" opportunities, share the risk & vulnera
 No, we are a nonprofit foundation. We rely on contributions in the form of donations, sponsorships and participating members
 <!-- tabs:end -->
 
-<!-- tab:Contact -->
 # Contact
 ## Contact us
 Contact us if you have feedback or a general enquiry.
@@ -89,9 +73,8 @@ For media enquiries, email our media desk at press[at]GDI.foundation
 
 ### Social media
 You can also follow us on Twitter — we're [@GDI_FDN](https://twitter.com/GDI_FDN)
-<!-- tabs:end -->
 
-<!-- tab:Mission -->
+#### ** Misssion **
 ## Mission statement
 ### What is the GDI foundation
 The GDI foundation is an international humanitarian non-profit organization which is being operated by 34 members. Our mission is to protect the free and open Internet by trying to make it safer and by thus guarding the well-being of humans online, to ensure respect for all human intellectual freedom, and to prevent and mitigate digital abuse. We address security issues with Responsible Disclosures and assist anywhere in times of need.
@@ -123,11 +106,9 @@ The GDI foundation, in which all societies have equal status and share similar r
 
 ## Code of Conduct
 This is our code of conduct. We kept it simple. Just "[Be Excellent to Each Other](https://www.youtube.com/watch?v=QGErt4CfLD0)".
-<!-- tabs:end -->
 
-<!-- tab:Outlook -->
+#### ** Outlook **
 ## Outlook 2019
-
 ### Looking back
 We have come a long way. The GDI foundation was originally founded in December 2015 and kicked off 2016 with [PROJECT366](https://twitter.com/GDI_FDN/status/816581294134034432). In 2017 we grew in numbers with volunteers and members dealing with the victims of [huge ransack attacks on open databases systems](https://www.trendmicro.com/vinfo/au/security/news/cybercrime-and-digital-threats/hacking-groups-attack-more-than-20-thousand-mongodb-databases) and the [fallout of Eternalblue](https://www.nu.nl/internet/4820652/negenduizend-nederlandse-bedrijven-dichten-serverlek-melding-onderzoeker.html). 
 Thanks to our volunteers we could help big Digital Service Providers, Internet Service providers but also huge brands, banks, and financial services, defensive industries, cable and telecommunications, food retailing, healthcare, and companies involved in the distribution of clothes, food, and energy protecting their operations by finding easy to find weaknesses in their external systems.
@@ -211,4 +192,5 @@ The trustee appointed or elected to be secretary can only take on specific dutie
 
 ### Treasurer
 The treasurer is elected or appointed to this role and helps board members to carry out their financial responsibilities by presenting financial reports to the board in a format that helps the board understand the foundation’s financial position. Advising the board on how to carry out its financial responsibilities. Liaising with professional advisors and overseeing the bookkeeping, budgeting, and preparation of reports.
+
 <!-- tabs:end -->
