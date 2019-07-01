@@ -19,13 +19,13 @@
 * March 28, 2019: [5.3m users of Chinese lesbian dating app exposed on unsecured server](https://www.siliconrepublic.com/enterprise/china-lesbian-dating-app-exposed)
 * March 27, 2019: [Data Leak Involving Family Tracking App Exposed 238,000 Users’ Real-Time Locations for Weeks](https://techcrunch.com/2019/03/23/family-tracking-location-leak/)
 * March 17, 2019: [China data breaches: 33 million unprotected job applicant profiles leaked](http://theindependent.sg/china-data-breaches-33-mil-unprotected-job-applicant-profiles-leaked/)
-* March 11, 2019: [A Researcher Uncovered a Chinese Database That Lists the "BreedReady" Status of 1.8 Million Women](https://time.com/5548917/research-china-database-breedready-women/) 
+* March 11, 2019: [A Researcher Uncovered a Chinese Database That Lists the "BreedReady" Status of 1.8 Million Women](https://time.com/5548917/research-china-database-breedready-women/)
 * March 11, 2019: [Open MongoDB Databases Expose Chinese Surveillance Data](https://www.bleepingcomputer.com/news/security/open-mongodb-databases-expose-chinese-surveillance-data/)
 ### February
 * February 23, 2019: [China has turned Xinjiang into a zone of repression — and a frightening window into the future](https://www.washingtonpost.com/opinions/global-opinions/china-has-turned-xinjiang-into-a-zone-of-repression--and-a-frightening-window-into-the-future/2019/02/23/780092fe-353f-11e9-854a-7a14d7fec96a_story.html?noredirect=on&utm_term=.ce5533c554e0)
 ### January
 * January 29, 2019: [Unsecured MongoDB databases expose Kremlin's backdoor into Russian businesses](https://www.zdnet.com/article/unsecured-mongodb-databases-expose-kremlins-backdoor-into-russian-businesses/)
-* January 29 , 2019: [https://www.bankinfosecurity.com/japans-iot-security-strategy-break-into-devices-a-11977](Japan's IoT Security Strategy: Break Into Devices)
+* January 29 , 2019: [Japan's IoT Security Strategy: Break Into Devices](https://www.bankinfosecurity.com/japans-iot-security-strategy-break-into-devices-a-11977)
 
 ## Archive
 The real old stuff is [here](https://github.com/GDI-foundation/GDI.foundation/tree/master/archive)
