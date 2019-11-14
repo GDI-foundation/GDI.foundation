@@ -3,7 +3,7 @@
 
 ## News
 
->>> [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures"](https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
+> [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures"](https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
 
 * [The Internet – Its Vulnerabilities & Vigilantes](https://tickledmedia.com/uncategorized/the-internet-its-vulnerabilities-vigilantes/) - October 17, 2019
 * [WeWork's weak Wi-Fi security leaves sensitive documents exposed](https://www.cnet.com/news/weworks-weak-wi-fi-security-leaves-sensitive-documents-exposed/) - September 19, 2019
