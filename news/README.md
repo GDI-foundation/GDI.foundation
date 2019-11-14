@@ -5,6 +5,13 @@
 
 ## 2019
 
+
+>>> [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures"](https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
+
+
+### October
+* October 17, 2019: [The Internet – Its Vulnerabilities & Vigilantes](https://tickledmedia.com/uncategorized/the-internet-its-vulnerabilities-vigilantes/)
+
 ### September
 * September 19, 2019: [WeWork's weak Wi-Fi security leaves sensitive documents exposed](https://www.cnet.com/news/weworks-weak-wi-fi-security-leaves-sensitive-documents-exposed/)
 * September 4, 2019: [A huge database of Facebook users’ phone numbers found online](https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/)
