@@ -6,7 +6,7 @@
 ## 2019
 
 
->>> [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures"](https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
+> [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures"](https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
 
 
 ### October
