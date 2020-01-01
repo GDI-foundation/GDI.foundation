@@ -1,5 +1,8 @@
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
+<center><a href="https://docs.google.com/document/d/1_vFnx6LOT6rynk2m56MobS-meKHgTklm2iZJLR3vbZM/edit?usp=sharing"><img src="https://raw.githubusercontent.com/GDI-foundation/stats/master/header_2016-2019_results.PNG" alt="GDI.foundation" border="0" style="display: block; margin-left: auto; margin-right: auto;" /></a></center>
+
+
 
 ## News
 
