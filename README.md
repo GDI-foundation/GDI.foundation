@@ -3,8 +3,8 @@
 
 ## News
 
-> [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures"]
-(https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
+> [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures](https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
+
 
 * **[The GDI.foundation is one of the winners of the 2019 SANS Difference Makers Awards](https://www.sans.org/cyber-innovation-awards) - December 16, 2019**
 * [The Internet – Its Vulnerabilities & Vigilantes](https://tickledmedia.com/uncategorized/the-internet-its-vulnerabilities-vigilantes/) - October 17, 2019
