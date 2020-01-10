@@ -16,5 +16,5 @@
 
 
 ## Can I help?
-Yes. We have many [issues and missing features](https://github.com/GDI-foundation/website/issues/) regarding our website.
-However, we also have new (research) [projects](https://github.com/GDI-foundation/website/projects/) planned to which you are welcome to contribute. We are accepting new (board)members, volunteers, and contributing partners.
+Yes. We have many [issues and missing features](https://github.com/GDI-foundation/website/issues/) regarding our online services. This is [our support](https://gdi.foundation/#/support/) page.
+
