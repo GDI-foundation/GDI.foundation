@@ -3,3 +3,4 @@
 * [About](/about/README.md "About our organisation")
 * [Contact](/contact/README.md "Contact information")
 * [Mission](/mission/README.md "Our mission statement")
+* [Support us](https://gdi.foundation/#/support/)
