@@ -2,9 +2,14 @@
 <a href="/"><img src="https://gdi.foundation/img/logo.png" alt="GDI.foundation" width="58" height="100" border="0" /></a>
 
 # News
+## 2020
+* [New ‘Meow’ attack has wiped dozens of unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-wiped-dozens-of-unsecured-databases/) - July 22, 2020
+* [Hacker ransoms 23k MongoDB databases and threatens to contact GDPR authorities](https://www.zdnet.com/article/hacker-ransoms-23k-mongodb-databases-and-threatens-to-contact-gdpr-authorities/) - July 1, 2020
+* [Mass surveillance risk real with Chinese apps: Experts](https://www.hindustantimes.com/india-news/mass-surveillance-threat-real-with-chinese-apps-says-cybersecurity-experts/story-HphmVO6k2D8kiRMqoD4NgI.html/) - July 1, 2020
+* [A hacker gang is wiping Lenovo NAS devices and asking for ransoms](https://www.zdnet.com/article/a-hacker-gang-is-wiping-lenovo-nas-devices-and-asking-for-ransoms/) - June 29, 2020
+
 
 ## 2019
-
 > [Voluntarily Protecting the Internet: The GDI Foundation Identifies and Reports Vulnerabilities via Responsible Disclosures"](https://www.hostingadvice.com/blog/gdi-foundation-is-voluntarily-protecting-the-internet/)
 
 ## December
