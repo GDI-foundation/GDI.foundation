@@ -3,6 +3,8 @@
 ## News
 ### 2020
 
+* [Trump’s TikTok and WeChat bans: What they really mean for you](https://www.latimes.com/business/technology/story/2020-09-18/trump-is-making-good-on-his-promise-to-ban-tiktok-and-wechat-what-does-that-mean-for-you) - September 18, 2020
+* [Can You Guess Trump's Twitter Password?](https://www.forbes.com/sites/daveywinder/2020/09/12/can-you-guess-trumps-twitter-password-these-hackers-say-they-cracked-it-in-2016-report-yourefired/#2c57ac0921f9) - September 12, 2020
 * [New ‘Meow’ attack has wiped dozens of unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-wiped-dozens-of-unsecured-databases/) - July 22, 2020
 * [Hacker ransoms 23k MongoDB databases and threatens to contact GDPR authorities](https://www.zdnet.com/article/hacker-ransoms-23k-mongodb-databases-and-threatens-to-contact-gdpr-authorities/) - July 1, 2020
 * [Mass surveillance risk real with Chinese apps: Experts](https://www.hindustantimes.com/india-news/mass-surveillance-threat-real-with-chinese-apps-says-cybersecurity-experts/story-HphmVO6k2D8kiRMqoD4NgI.html/) - July 1, 2020
