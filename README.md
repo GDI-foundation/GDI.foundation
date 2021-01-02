@@ -1,8 +1,11 @@
-<center><a href="https://docs.google.com/document/d/1_vFnx6LOT6rynk2m56MobS-meKHgTklm2iZJLR3vbZM/edit?usp=sharing"><img src="https://raw.githubusercontent.com/GDI-foundation/stats/master/header_2016-2019_results.PNG" alt="GDI.foundation" border="0" style="display: block; margin-left: auto; margin-right: auto;" /></a></center>
+<center><a href="https://docs.google.com/document/d/1_vFnx6LOT6rynk2m56MobS-meKHgTklm2iZJLR3vbZM/edit?usp=sharing"><img src="https://raw.githubusercontent.com/GDI-foundation/stats/master/header_2016-2020_results.PNG" alt="GDI.foundation" border="0" style="display: block; margin-left: auto; margin-right: auto;" /></a></center>
 
 ## News
-### 2020
 
+### 2021
+* Soon
+
+### 2020
 * [Trump’s TikTok and WeChat bans: What they really mean for you](https://www.latimes.com/business/technology/story/2020-09-18/trump-is-making-good-on-his-promise-to-ban-tiktok-and-wechat-what-does-that-mean-for-you) - September 18, 2020
 * [Can You Guess Trump's Twitter Password?](https://www.forbes.com/sites/daveywinder/2020/09/12/can-you-guess-trumps-twitter-password-these-hackers-say-they-cracked-it-in-2016-report-yourefired/#2c57ac0921f9) - September 12, 2020
 * [New ‘Meow’ attack has wiped dozens of unsecured databases](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-wiped-dozens-of-unsecured-databases/) - July 22, 2020
