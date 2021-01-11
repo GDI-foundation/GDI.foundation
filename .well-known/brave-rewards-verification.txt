@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gdi.foundation
+Token: 358cd4b54554668c91dc7541a3cd2709ef9b06f85e2748da3d4d64ed06bc1f35
