@@ -8,7 +8,7 @@ The GDI foundation is an international humanitarian non-profit organization whic
 You can also support our mission and our volunteers with a donation. Everything you can share with us will be used to fund projects which require hosting, licenses, or even training, which is for the volunteers who are often required to learn on the job. In this way, we can give back to the growing community of volunteers.
 
 
-A donation will help us to support to make the internet safer and make a positive contribution to society. We appriciate every thing you share with us. You can donate using [Paypal](https://paypal.me/pools/c/8mBLagsrGt).
+A donation will help us to support to make the internet safer and make a positive contribution to society. We appriciate every thing you share with us. You can donate using [Paypal](https://paypal.me/pools/c/8yrZf9BbEr).
 
 
 
