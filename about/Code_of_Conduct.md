@@ -42,11 +42,11 @@ All volunteers should feel welcome and comfortable to participate fully; therefo
 * The GDI foundation expects that breaches of this Code of Conduct can be resolved informally. However, suppose a volunteer engages in unacceptable behavior. In that case, we may take any action deemed appropriate, including a temporary ban or permanent expulsion from the GDI foundation.
 * The GDI foundation reserves the right to ban a volunteer or participant violating this Code of Conduct from future GDI.foundation activities, which will be made as a decision by the GDI Foundation Board, or by an independent body identified and entrusted by the GDI Foundation Board with the task.
 
-Reporting Guidelines
+## Reporting Guidelines
 If you are subject to or witness unacceptable behavior or have any other concerns, please notify a chapter leader as soon as possible or email coc@gdi.foundation. If one of the chapter leaders is a potential offender or subject of the report, he will remove him or herself from the investigation.
 
-Addressing Grievances
+## Addressing Grievances
 Suppose you feel you have been falsely or unfairly accused of violating this Code of Conduct. In that case, you should notify the GDI Foundation via board@gdi.foundatiopn or any board member personally with a concise description of your grievance.
 
-TLDNR 
+## TLDNR 
 [Be Excellent to each other](https://www.youtube.com/watch?v=rph_1DODXDU).
